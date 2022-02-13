@@ -1,4 +1,4 @@
-## 😀� zoocasso
+## 😀 zoocasso
 
 Junior web front-end developer.
 
