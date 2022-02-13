@@ -5,4 +5,4 @@ Junior web front-end developer.
 Vanilla JS, C++, C#
 
 📫 How to reach me
-zoocasso1590@gmail.com
+#EA4335 zoocasso1590@gmail.com
