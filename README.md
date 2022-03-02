@@ -5,7 +5,7 @@ Junior web front-end developer.
 ### 🧑🏻‍💻 Tech
 
 ![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScriptB&logoColor=white)
-![b](https://img.shields.io/badge/C++-007396?style=flat-square&logo=C++&logoColor=white)
+![b](https://img.shields.io/badge/C++-007396?style=flat-square&logo=CPlusPlus&logoColor=white)
 ![c](https://img.shields.io/badge/CSharp-3f8424?style=flat-square&logo=CSharp&logoColor=white)
 ![d](https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
 
