@@ -13,8 +13,6 @@ Junior web front-end developer.
 ![e](https://img.shields.io/badge/CSharp-3f8424?style=flat-square&logo=CSharp&logoColor=white)
 ![f](https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
 
-(https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
-
 ### 🎬  <a href="https://petite-mailbox-817.notion.site/476f2b02665743b0ba63089e876540ee" target="_blank">portfolio link (click this)</a>
 
 ### 📫  How to reach me
