@@ -12,6 +12,7 @@ Junior web front-end developer.
 ![d](https://img.shields.io/badge/C++-007396?style=flat-square&logo=CPlusPlus&logoColor=white)
 ![e](https://img.shields.io/badge/CSharp-3f8424?style=flat-square&logo=CSharp&logoColor=white)
 ![f](https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
+![g](https://img.shields.io/badge/VHDL-d26e44?style=flat-square&l)
 
 ### 🎬  <a href="https://petite-mailbox-817.notion.site/476f2b02665743b0ba63089e876540ee">portfolio [click + control (or command)]</a>
 
