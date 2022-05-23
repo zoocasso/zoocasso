@@ -14,7 +14,7 @@ Junior Web Front-End Developer.
 ![f](https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
 ![g](https://img.shields.io/badge/VHDL-3e6395?style=flat-square&l)
 
-### 🎬  <a href="https://petite-mailbox-817.notion.site/476f2b02665743b0ba63089e876540ee">Portfolio [Click + Control (or Command)]</a>
+### 🎬  <a href="https://petite-mailbox-817.notion.site/476f2b02665743b0ba63089e876540ee">Portfolio [Click]</a>
 
 ### 📫  How to reach me
 [![zoocasso1590@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoocasso1590@gmail.com)](mailto:zoocasso1590@gmail.com) : zoocasso1590@gmail.com 
