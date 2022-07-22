@@ -1,6 +1,6 @@
 ## 😀 Zoocasso
 
-Junior Web Front-End Developer.
+Junior AI Developer.
 
 ### 🧑🏻‍💻 Language
 
