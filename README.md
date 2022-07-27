@@ -1,6 +1,6 @@
 ## 😀 Zoocasso
 
-Junior AI Developer.
+Junior AI Developer (MLOps).
 
 ### 🧑🏻‍💻 Language
 
