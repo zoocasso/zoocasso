@@ -22,3 +22,5 @@ Junior AI Developer (MLOps).
 
 
 ### 🧐 studyind now [Nomad Coders 🚀 10weeks study]
+
+### 🧐 working in [VisionInside] company
