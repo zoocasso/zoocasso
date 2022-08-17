@@ -1,6 +1,6 @@
 ## 😀 Zoocasso
 
-Junior AI Developer (MLOps).
+AI & MLOPs Developer
 
 ### 🧑🏻‍💻 Language
 
@@ -19,8 +19,5 @@ Junior AI Developer (MLOps).
 
 ### 📫  How to reach me
 [![zoocasso1590@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoocasso1590@gmail.com)](mailto:zoocasso1590@gmail.com) : zoocasso1590@gmail.com 
-
-
-### 🧐 studyind now [Nomad Coders 🚀 10weeks study]
 
 ### 🧐 working in [VisionInside] company
