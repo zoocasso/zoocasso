@@ -1,6 +1,6 @@
 ## 😀 Zoocasso
 
-AI Developer & Data Enginer
+Python Developer
 
 ### 🧑🏻‍💻 Language
 ![a](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
