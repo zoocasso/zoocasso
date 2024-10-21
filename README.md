@@ -15,3 +15,6 @@
 
 ### 📫  E-Mail
 [![zoocasso1590@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoocasso1590@gmail.com)](mailto:zoocasso1590@gmail.com) : zoocasso1590@gmail.com 
+
+### bio Project
+https://docs.google.com/presentation/d/18nMovfuEqTtym0cZkWerSKVgl3NkHqzBmKJxbQZzG98/edit?usp=sharing
