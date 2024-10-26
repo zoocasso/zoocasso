@@ -5,10 +5,12 @@
 ### Who am I
 [Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
 
-### paper
+### Paper
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
-### bio Project
+### Bio Project
 [bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
+### WJMAX
+https://waktaverse.games/gameDetail/wjmax/
 
 ## Contact
 ### 📫  E-Mail
