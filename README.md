@@ -1,4 +1,6 @@
-## 😀 Developer Lee HyeongJu
+## Developer Lee HyeongJu
+
+![image](https://github.com/user-attachments/assets/b96354ab-eccc-4f72-96bb-ba7846f1e86f)
 
 ### Who am I
 [Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
@@ -7,7 +9,6 @@
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
 ### bio Project
 [bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
-
 
 ## Contact
 ### 📫  E-Mail
