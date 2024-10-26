@@ -6,7 +6,8 @@
 ### paper
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
 ### bio Project
-https://docs.google.com/presentation/d/18nMovfuEqTtym0cZkWerSKVgl3NkHqzBmKJxbQZzG98/edit?usp=sharing
+[bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
+
 
 ## Contact
 ### 📫  E-Mail
