@@ -10,6 +10,8 @@
 ### Bio Project
 [bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
 ### WJMAX
+![Uploading image.png…]()
+
 https://waktaverse.games/gameDetail/wjmax/
 
 ## Contact
