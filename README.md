@@ -1,4 +1,6 @@
-## 😀 Developer Zoocasso
+## 😀 Developer Lee HyeongJu
+### 📫  E-Mail
+[![zoocasso1590@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoocasso1590@gmail.com)](mailto:zoocasso1590@gmail.com) : zoocasso1590@gmail.com 
 
 ### 🧑🏻‍💻 Language
 ![a](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -13,11 +15,8 @@
 ![f](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![g](https://img.shields.io/badge/MATLAB-d26e44?style=flat-square&logo=Atlassian&logoColor=white)
 
-### 📫  E-Mail
-[![zoocasso1590@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zoocasso1590@gmail.com)](mailto:zoocasso1590@gmail.com) : zoocasso1590@gmail.com 
-
+## Project Overview
 ### bio Project
 https://docs.google.com/presentation/d/18nMovfuEqTtym0cZkWerSKVgl3NkHqzBmKJxbQZzG98/edit?usp=sharing
-
 ### paper
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
