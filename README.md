@@ -1,19 +1,20 @@
-## Who am I
+## Resume
 ![Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
-![LeeHyeongJu_portfolio.pdf](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)
 
+## Portfolio
+![LeeHyeongJu_portfolio.pdf](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)
 
 ![image](https://github.com/user-attachments/assets/b96354ab-eccc-4f72-96bb-ba7846f1e86f)
 
 ## Paper
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
 
-## Bio Project
-[bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
-
-## WJMAX
+### WJMAX
 ![image](https://github.com/user-attachments/assets/5ed60e53-ffcd-4b50-ab60-73c3d09ebc8c)
 https://waktaverse.games/gameDetail/wjmax/
+
+### Bio Project
+[bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
 
 ## Contact
 ### 📫  E-Mail
