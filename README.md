@@ -1,10 +1,8 @@
 ## Resume
-![Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
+[Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
 
 ## Portfolio
-![LeeHyeongJu_portfolio.pdf](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)
-
-![image](https://github.com/user-attachments/assets/b96354ab-eccc-4f72-96bb-ba7846f1e86f)
+[LeeHyeongJu_portfolio.pdf](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)
 
 ## Paper
 [Image Enhancement of Volumetric Computational Reconstruction Using Origin Point .pdf](https://github.com/user-attachments/files/17529353/Image.Enhancement.of.Volumetric.Computational.Reconstruction.Using.Origin.Point.pdf)
