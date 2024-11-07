@@ -1,5 +1,7 @@
 ## Who am I
 [Lee HyeongJu Resume.pdf](https://github.com/user-attachments/files/17529403/Lee.HyeongJu.Resume.pdf)
+[LeeHyeongJu_portfolio.pdf](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)
+
 
 ![image](https://github.com/user-attachments/assets/b96354ab-eccc-4f72-96bb-ba7846f1e86f)
 
