@@ -1,4 +1,4 @@
-# Hi there, I'm Hyung-ju Lee 👋
+# I'm Hyung-ju Lee 👋
 
 ### 🚀 Computer Vision Engineer | AWS & High Traffic Handling Specialist
 > **"연구실의 모델을 실제 서비스로 구현합니다."** <br>
@@ -70,4 +70,3 @@
 
 ## 📫 Contact
 * **Email:** [zoocasso1590@gmail.com](mailto:zoocasso1590@gmail.com)
-* **Blog:** *(블로그가 있다면 여기에 링크 추가)*
