@@ -47,13 +47,11 @@
 ### 2. WakJMax (대규모 트래픽 게임 프로젝트)
 > **Role:** Server Architect & Backend Developer <br>
 > **Tech:** AWS (EC2, RDS, Route53), Cloudflare, Python
-> **Performance:** **동시 접속자 1,000명** 트래픽 무중단 처리
+> **Performance:** **동시 접속자 1,000명** 트래픽 처리
 
 * **Architecture:** AWS EC2와 RDS를 VPC 내부 회선으로 연결하여 보안성 및 전송 속도 최적화
 * **Traffic Control:** Cloudflare CDN 적용 및 Route 53 도메인 관리로 글로벌 트래픽 안정성 확보
 * **Real-time Logic:** 실시간 게임 로그 데이터 수집 및 랭킹 산출 시스템 구현
-
-![Game Image](https://github.com/user-attachments/assets/5ed60e53-ffcd-4b50-ab60-73c3d09ebc8c)
 
 <br>
 
