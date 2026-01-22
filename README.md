@@ -11,7 +11,6 @@
 제 자세한 이력과 프로젝트 경험은 아래 문서에서 확인하실 수 있습니다.
 
 | **Document** | **Description** |
-
 | :--- | :--- |
 | 📄 **[Resume (PDF)](https://github.com/user-attachments/files/24789934/_20260122.pdf)** | 경력 기술서 및 전체 이력 요약 |
 | 📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)** | 프로젝트별 상세 아키텍처 및 성과 |
