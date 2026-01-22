@@ -56,7 +56,7 @@
 <br>
 
 ### 3. 유전체 분석(Bio) 서비스 런칭 프로젝트
-> **Role:** Sole Developer (단독 개발) <br>
+> **Role:** Sole Developer (단독 개발자) <br>
 > **Tech:** Python, NLP, Data Modeling
 > **Document:** [Project Process PDF](https://github.com/user-attachments/files/17529404/bio.process.pdf)
 
