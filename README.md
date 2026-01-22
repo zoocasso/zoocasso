@@ -9,7 +9,6 @@
 
 ### WJMAX
 ![image](https://github.com/user-attachments/assets/5ed60e53-ffcd-4b50-ab60-73c3d09ebc8c)
-https://waktaverse.games/gameDetail/wjmax/
 
 ### Bio Project
 [bio process.pdf](https://github.com/user-attachments/files/17529404/bio.process.pdf)
