@@ -1,9 +1,9 @@
 # I'm Hyeongju Lee 👋
 
 ### 🚀 Computer Vision Engineer | AWS & High Traffic Handling Specialist
-> **"연구실의 모델을 실제 서비스로 구현합니다."** <br>
+> **"연구실의 모델을 실제 서비스와 하드웨어로 구현합니다."** <br>
 > 2년 6개월간 데이터 엔지니어링, 인프라 구축, AI 모델 서빙을 경험한 엔지니어 이형주입니다. <br>
-> 대규모 트래픽(1,000+ Concurrent Users) 처리 경험과 연구 역량을 바탕으로 안정적인 서비스를 만듭니다.
+> 대규모 트래픽(Max 3,000 Concurrent Users) 처리 경험과 Vision AI 연구 역량을 바탕으로 안정적인 서비스를 만듭니다.
 
 <br>
 
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux (Ubuntu)-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 **AI & Computer Vision**
-<img src="https://img.shields.io/badge/Ollama (Llama 3)-000000?style=flat-square&logo=Ollama&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama (Llama 3)-000000?style=flat-square&logo=Ollama&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
 
 <br>
 
@@ -44,14 +44,16 @@
 
 <br>
 
-### 2. WakJMax (대규모 트래픽 게임 프로젝트)
+### 2. WJMAX (대규모 트래픽 게임 프로젝트)
 > **Role:** Server Architect & Backend Developer <br>
+> **Performance:** **동시 접속자 1,000명** 트래픽 처리 <br>
 > **Tech:** AWS (EC2, RDS, Route53), Cloudflare, Python
-> **Performance:** **동시 접속자 1,000명** 트래픽 처리
 
 * **Architecture:** AWS EC2와 RDS를 VPC 내부 회선으로 연결하여 보안성 및 전송 속도 최적화
-* **Traffic Control:** Cloudflare CDN 적용 및 Route 53 도메인 관리로 글로벌 트래픽 안정성 확보
+* **Traffic Control:** Cloudflare CDN 및 Route 53 적용으로 업데이트 시 급증하는 트래픽(Spike) 대응
 * **Real-time Logic:** 실시간 게임 로그 데이터 수집 및 랭킹 산출 시스템 구현
+
+![Game Image](https://github.com/user-attachments/assets/5ed60e53-ffcd-4b50-ab60-73c3d09ebc8c)
 
 <br>
 
@@ -62,7 +64,15 @@
 
 * **Full-Cycle Dev:** 초기 아이디어 회의부터 알고리즘 설계, DB 구축, 서비스 런칭까지 전 과정 수행
 * **Business Logic:** 유전체(Genome) 데이터와 질병(Disease) 간의 연관 관계 추론 알고리즘 개발
-* **Communication:** 바이오 분야 석/박사 연구원들과의 협업을 통해 기술 요구사항 구체화
+
+<br>
+
+### 4. Embedded Face Recognition (졸업 프로젝트)
+> **Role:** Team Leader & Developer <br>
+> **Tech:** Raspberry Pi, Linux, Python, OpenCV (LBPH)
+
+* **Embedded Vision:** 라즈베리파이 환경에서 LBPH 알고리즘을 활용한 실시간 얼굴 인식 시스템 구현
+* **System Integration:** 임베디드 리눅스 환경 구축 및 센서/카메라 모듈 제어
 
 <br>
 
