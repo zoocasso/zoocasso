@@ -53,8 +53,6 @@
 * **Traffic Control:** Cloudflare CDN 및 Route 53 적용으로 업데이트 시 급증하는 트래픽(Spike) 대응
 * **Real-time Logic:** 실시간 게임 로그 데이터 수집 및 랭킹 산출 시스템 구현
 
-![Game Image](https://github.com/user-attachments/assets/5ed60e53-ffcd-4b50-ab60-73c3d09ebc8c)
-
 <br>
 
 ### 3. 유전체 분석(Bio) 서비스 런칭 프로젝트
