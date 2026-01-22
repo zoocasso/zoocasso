@@ -1,4 +1,4 @@
-# I'm Hyung-ju Lee 👋
+# I'm Hyeongju Lee 👋
 
 ### 🚀 Computer Vision Engineer | AWS & High Traffic Handling Specialist
 > **"연구실의 모델을 실제 서비스로 구현합니다."** <br>
