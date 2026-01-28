@@ -2,7 +2,7 @@
 
 # I'm Hyeongju Lee 👋
 
-### 🚀 System-aware Computer Vision Engineer
+### 🚀 Data and Computer Vision Engineer
 
 > **"Bridging the gap between 3D Vision Research and Data Engineering."**
 
