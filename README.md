@@ -16,6 +16,9 @@
 | 📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)** | 프로젝트별 상세 아키텍처 및 성과 |
 | 🎓 **[Research Paper (Google Scholar)](https://scholar.google.com/citations?user=VNOSGAgAAAAJ)** | 3D 영상처리 연구 |
 
+1. Accepted to ITC-CSCC 2025: 3D reconstruction 연구
+2. Submitted to ITC-CSCC 2026 (Under Review): 3D reconstruction 가속화 및 Yolo적용 연구
+3. **Submitted to ECCV 2026 (Under Review): reconstruction 전처리 연구 (Hardward Fundamental Limit 극복)**
 <br>
 
 ## 🛠 Tech Stack
