@@ -1,16 +1,16 @@
-# I'm Hyeongju Lee 👋
+# I'm Hyeongju Lee
 
 ### 🚀 System-aware Computer Vision Engineer
-> **"Bridging the gap between 3D Vision Research and Scalable Production Systems."** <br>
+> **"Bridging the gap between 3D Vision Research and Data Engineer."** <br>
 > 3D 영상처리 연구와 대규모 트래픽 처리를 모두 경험한 엔지니어 이형주입니다.<br>
-> **"논문 속의 수식을 실제 서비스 가능한 코드로 구현하는 것"** 에 집중하며, AWS 인프라 위에서 돌아가는 최적화된 Vision 파이프라인을 설계합니다.
+> **"논문 속의 수식을 실제 서비스 가능한 코드로 구현하는 것"** 에 집중하며, AWS 인프라 위에서 돌아가는 최적화된 데이터 파이프라인을 설계합니다.
 
 <br>
 
 ## 🌟 Highlights
-- **Research & Dev:** 3D Reconstruction 연구(M.S. Candidate)와 백엔드 개발(2년 6개월)을 병행
+- **Research & Dev:** 3D Reconstruction 연구와 백엔드 개발(2년 6개월)을 병행
 - **Scalability:** AWS 아키텍처 설계를 통한 **1,000+ Concurrent Users** 대용량 트래픽 처리 경험
-- **Full-Cycle:** 데이터 수집부터 모델 학습, 그리고 Docker/K8s 기반의 배포까지 전 과정(SDLC) 리딩
+- **Full-Cycle:** 데이터 수집부터 모델 학습, 그리고 Docker/AWS 기반의 배포까지 전 과정(SDLC) 리딩
 
 <br>
 
