@@ -1,7 +1,7 @@
 # I'm Hyeongju Lee
 
 ### 🚀 System-aware Computer Vision Engineer
-> **"Bridging the gap between 3D Vision Research and Data Engineer."** <br>
+> **"Bridging the gap between 3D Vision Research and Data Engineering."** <br>
 > 3D 영상처리 연구와 대규모 트래픽 처리를 모두 경험한 엔지니어 이형주입니다.<br>
 > **"논문 속의 수식을 실제 서비스 가능한 코드로 구현하는 것"** 에 집중하며, AWS 인프라 위에서 돌아가는 최적화된 데이터 파이프라인을 설계합니다.
 
