@@ -51,10 +51,8 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 
 ## 📂 Featured Projects & Documents
 
-| Document | Description |
-| :--- | :--- |
-| 📄 **[Resume (PDF)](https://github.com/user-attachments/files/26133035/cv_hyeongjulee.pdf)** |
-| 📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/26133041/portfolio_hyeongjulee.pdf)** |
+📄 **[Resume (PDF)](https://github.com/user-attachments/files/26133035/cv_hyeongjulee.pdf)**
+📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/26133041/portfolio_hyeongjulee.pdf)**
 
 <br>
 <div align="center">
