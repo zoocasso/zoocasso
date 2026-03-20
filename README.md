@@ -53,8 +53,8 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 
 | Document | Description |
 | :--- | :--- |
-| 📄 **[Resume (PDF)](https://github.com/user-attachments/files/24789934/_20260122.pdf)** | Professional Experience & Summary |
-| 📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/17667228/LeeHyeongJu_portfolio.pdf)** | Detailed Architecture of **WakJMax (Traffic Handling)** & **Genomics Analysis (Sole Dev)** |
+| 📄 **[Resume (PDF)](https://github.com/user-attachments/files/26133035/cv_hyeongjulee.pdf)** |
+| 📂 **[Portfolio (PDF)](https://github.com/user-attachments/files/26133041/portfolio_hyeongjulee.pdf)** |
 
 <br>
 <div align="center">
