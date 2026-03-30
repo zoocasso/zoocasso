@@ -1,12 +1,12 @@
 <div align="center">
 
-# I'm Hyeongju Lee 👋
+#Hyeongju Lee
 
 ### 🚀 Data and Computer Vision Engineer
 
 > **"Bridging the gap between 3D Vision Research and Data Engineering."**
 
-I am Hyeongju Lee, an engineer with experience in both **3D image processing research** and **large-scale traffic handling**.<br> 
+I am Hyeongju Lee, an engineer with experience in both **3D image processing research** and **large-scale traffic and data handling**.<br> 
 I focus on implementing mathematical formulas from papers into service-ready code and designing optimized data pipelines running on AWS infrastructure.
 
 <br>
@@ -16,6 +16,8 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 <img src="https://img.shields.io/badge/Location-Fukuoka%2C%20Japan-FEC107?style=flat-square&logo=GoogleMaps&logoColor=black"/>
 
 </div>
+
+<img width="2048" height="800" alt="image" src="https://github.com/user-attachments/assets/3d8754aa-2d9b-4f7e-b39a-621925861e9d" />
 
 <br>
 
@@ -51,9 +53,4 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 
 ## 📂 Featured Projects & Documents
 
-📄 **[Resume (PDF)](https://github.com/user-attachments/files/26350424/cv_hyeongjulee.pdf)**
-
-<br>
-<div align="center">
-  <p>Thanks for visiting! 🚀</p>
-</div>
+📄 **[CV](https://github.com/user-attachments/files/26350424/cv_hyeongjulee.pdf)**
