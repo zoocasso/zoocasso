@@ -4,7 +4,7 @@
 
 ### 🚀 Data and Computer Vision Engineer
 
-I am Hyeongju Lee, an engineer with experience in both **3D image processing research** and **large-scale traffic and data handling**.<br> 
+I am Hyeongju Lee (**[CV](https://github.com/user-attachments/files/26350424/cv_hyeongjulee.pdf)**), an engineer with experience in both **3D image processing research** and **large-scale traffic and data handling**.<br> 
 I focus on implementing mathematical formulas from papers into service-ready code and designing optimized data pipelines running on AWS infrastructure.
 
 <br>
@@ -44,9 +44,3 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 
 ### **Infrastructure & DevOps**
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux (Ubuntu)-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-<br>
-
-## 📂 Featured Projects & Documents
-
-📄 **[CV](https://github.com/user-attachments/files/26350424/cv_hyeongjulee.pdf)**
