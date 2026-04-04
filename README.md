@@ -4,7 +4,7 @@
 
 ### 🚀 Data and Computer Vision Engineer
 
-I am Hyeongju Lee (**[CV]([./cv_hyeongjulee.pdf](https://github.com/user-attachments/files/26479107/cv_hyeongjulee.pdf))**), an engineer with experience in both **3D vision research** and **large-scale traffic and data handling**.<br> 
+I am Hyeongju Lee (**[CV](https://github.com/user-attachments/files/26479107/cv_hyeongjulee.pdf)**), an engineer with experience in both **3D vision research** and **large-scale traffic and data handling**.<br> 
 I focus on implementing mathematical formulas from papers into service-ready code and designing optimized data pipelines running on AWS infrastructure.
 
 <br>
