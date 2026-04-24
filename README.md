@@ -9,7 +9,7 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 
 <br>
 
-<a href="mailto:lee.hyeongju2212@mail.kyutech.jp"><img src="https://img.shields.io/badge/Email-zoocasso1590%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:lee.hyeongju2212@mail.kyutech.jp"><img src="https://img.shields.io/badge/Email-lee.hyeongju2212%40gmail.kyutech.jp-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=VNOSGAgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Fukuoka%2C%20Japan-FEC107?style=flat-square&logo=GoogleMaps&logoColor=black"/>
 
