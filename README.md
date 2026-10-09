@@ -5,7 +5,7 @@
 ### 🚀 Data and Computer Vision Engineer
 
 I am Hyeongju Lee (**[CV](cv_hyeongjulee.pdf)**), an engineer with experience in both **3D vision research** and **large-scale traffic and data handling**.<br> 
-I focus on implementing mathematical formulas from papers into service-ready code and designing optimized data pipelines running on AWS infrastructure.
+I focus on turning formulas from papers into service-ready code and building data pipelines end to end, from collection to serving.
 
 <br>
 
@@ -18,9 +18,9 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 <br>
 
 ## 🌟 Highlights
-- 🔬 **Research & Dev:** Conducting 3D Reconstruction research in parallel with backend development experience (2.5 years).
+- 🔬 **Research & Dev:** 3D reconstruction research (4 first-author papers) on top of 29 months as a data & backend engineer.
 - ⚡ **Scalability:** Ran an AWS-based game server for live traffic (**~2,000 peak concurrent users**, side project).
-- 🔄 **Full-Cycle:** Leading the entire SDLC from data collection to model training and deployment based on Docker/AWS.
+- 🔄 **Full-Cycle:** Owned systems end to end, from data collection and modeling to Docker deployment (80M+ rows collected; ~1 TB genomic reference DB).
 
 <br>
 
@@ -41,7 +41,6 @@ I focus on implementing mathematical formulas from papers into service-ready cod
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
 
 ### **Backend & Data Engineering**
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 ### **Infrastructure & DevOps**
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux (Ubuntu)-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
