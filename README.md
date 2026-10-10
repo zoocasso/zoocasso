@@ -34,7 +34,7 @@ Graduating March 2027 · available to start in Korea from April 2027.
 | [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk-report backend (~1 TB reference DB, 4-stage SQL join) | FastAPI, MySQL, Docker, Harbor |
 | [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Game server for a community rhythm game (~2,000 peak concurrent players) | FastAPI, Docker, AWS EC2/RDS, Cloudflare |
 | [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset (5-person team lead; slides) | C++, OpenCV, Unity |
-| [depth-estimation-using-vcr-algorithm-matlab](https://github.com/zoocasso/depth-estimation-using-vcr-algorithm-matlab) | Depth estimation with correlation filters + volumetric computational reconstruction | MATLAB |
+| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (25.45 s → 0.31 s on CPU) | Python, NumPy, CuPy |
 | [smart-mirror-face-voice-recognition](https://github.com/zoocasso/smart-mirror-face-voice-recognition) | Capstone smart mirror with face and voice recognition (team of two) | Python, OpenCV, Raspberry Pi |
 
 <br>
