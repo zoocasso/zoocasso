@@ -12,7 +12,7 @@ Graduating March 2027 · available to start in Korea from April 2027.
 
 <a href="mailto:zoocasso1590@gmail.com"><img src="https://img.shields.io/badge/Email-zoocasso1590%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hyeongju-lee-749542334"><img src="https://img.shields.io/badge/LinkedIn-Hyeongju_Lee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.notion.so/476f2b02665743b0ba63089e876540ee"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://zoocasso.github.io"><img src="https://img.shields.io/badge/Portfolio-zoocasso.github.io-C9A45C?style=flat-square&logo=GitHubPages&logoColor=black"/></a>
 <a href="https://scholar.google.com/citations?user=VNOSGAgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Fukuoka%2C%20Japan-FEC107?style=flat-square&logo=GoogleMaps&logoColor=black"/>
 
