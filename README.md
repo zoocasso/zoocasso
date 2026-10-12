@@ -6,7 +6,8 @@
 
 I am Hyeongju Lee (**[CV](cv_hyeongjulee.pdf)**), a data & backend engineer with 29 months of industry experience, now researching 3D vision as a master's student at Kyushu Institute of Technology.<br>
 I build data pipelines end to end, from collection to serving, and turn research methods into working code.<br>
-Graduating March 2027 · available to start in Korea from April 2027.
+Graduating March 2027 · available to start in Korea from April 2027.<br>
+Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github.io</a></b>; the code is here.
 
 <br>
 
@@ -20,7 +21,7 @@ Graduating March 2027 · available to start in Korea from April 2027.
 <br>
 
 ## 🌟 Highlights
-- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on a KISTI-commissioned R&D platform (80M+ rows collected, models served with FastAPI); sole developer of a genomic variant annotation system over ~1 TB of public reference data, deployed with Docker and Harbor.
+- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform (80M+ rows collected, models served with FastAPI); sole developer of a genomic variant annotation system over ~1 TB of public reference data, deployed with Docker and Harbor.
 - 🔬 **3D Vision Research (Kyushu Tech, 2025–):** Training-free light-field / integral-imaging reconstruction; 4 first-author conference papers.
 - ⚡ **Side project:** Sole server developer of a community rhythm game (~300 average, ~2,000 peak concurrent players) on AWS behind Cloudflare.
 
@@ -28,17 +29,20 @@ Graduating March 2027 · available to start in Korea from April 2027.
 
 ## 📂 Featured Projects
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk-report backend (~1 TB reference DB, 4-stage SQL join) | FastAPI, MySQL, Docker, Harbor |
-| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Game server for a community rhythm game (~2,000 peak concurrent players) | FastAPI, Docker, AWS EC2/RDS, Cloudflare |
-| [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset (5-person team lead; slides) | C++, OpenCV, Unity |
-| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (25.45 s → 0.31 s on CPU) | Python, NumPy, CuPy |
-| [smart-mirror-face-voice-recognition](https://github.com/zoocasso/smart-mirror-face-voice-recognition) | Capstone smart mirror with face and voice recognition (team of two) | Python, OpenCV, Raspberry Pi |
+| Project | What it is | Stack | Write-up |
+| :--- | :--- | :--- | :---: |
+| KISTI data platform (company code, not public) | Collection and loading for a KISTI public R&D platform: 80M+ rows from crawlers on 10–20 laptops, model batches and a FastAPI admin interface | Python, Selenium, MySQL/MariaDB, FastAPI, KeyBERT | [details](https://zoocasso.github.io/en/work/kisti/) |
+| [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk-report backend (~1 TB reference DB, 4-stage SQL join) | FastAPI, MySQL, Docker, Harbor | [details](https://zoocasso.github.io/en/work/genomics/) |
+| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Game server for a community rhythm game (~2,000 peak concurrent players) | FastAPI, Docker, AWS EC2/RDS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
+| [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset (5-person team lead; slides) | C++, OpenCV, Unity | – |
+| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (25.45 s → 0.31 s on CPU) | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
+| [smart-mirror-face-voice-recognition](https://github.com/zoocasso/smart-mirror-face-voice-recognition) | Capstone smart mirror with face and voice recognition (team of two) | Python, OpenCV, Raspberry Pi | – |
 
 <br>
 
 ## 📚 Publications & Research
+
+Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim/) · [Origin point optimization](https://zoocasso.github.io/en/research/origin-point/)
 
 | Status | Conference | Paper Title |
 | :---: | :--- | :--- |
