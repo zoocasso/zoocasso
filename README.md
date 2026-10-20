@@ -1,0 +1,66 @@
+<div align="center">
+
+<img width="2048" height="800" alt="image" src="https://github.com/user-attachments/assets/3d8754aa-2d9b-4f7e-b39a-621925861e9d" />
+
+### 🚀 Data & Backend Engineer · 3D Vision Researcher
+
+I am Hyeongju Lee (**[CV](cv_hyeongjulee.pdf)**), a data & backend engineer with 29 months of industry experience, now researching 3D vision as a master's student at Kyushu Institute of Technology.<br>
+I build data pipelines end to end, from collection to serving, and turn research methods into working code.<br>
+Graduating March 2027 · available to start in Korea from April 2027.<br>
+Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github.io</a></b>; the code is here.
+
+<br>
+
+<a href="mailto:zoocasso1590@gmail.com"><img src="https://img.shields.io/badge/Email-zoocasso1590%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hyeongju-lee-749542334"><img src="https://img.shields.io/badge/LinkedIn-Hyeongju_Lee-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://zoocasso.github.io"><img src="https://img.shields.io/badge/Portfolio-zoocasso.github.io-C9A45C?style=flat-square&logo=GitHubPages&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Location-Fukuoka%2C%20Japan-FEC107?style=flat-square&logo=GoogleMaps&logoColor=black"/>
+
+</div>
+
+<br>
+
+## 🌟 Highlights
+- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform (80M+ rows collected, models served with FastAPI); sole developer of a genomic variant annotation system over ~1 TB of public reference data, deployed with Docker and Harbor.
+- 🔬 **3D Vision Research (Kyushu Tech, 2025–):** Training-free light-field / integral-imaging reconstruction; 4 first-author conference papers.
+- ⚡ **Side project:** Sole server developer of a community rhythm game (~300 average, ~2,000 peak concurrent players) on AWS behind Cloudflare.
+
+<br>
+
+## 📂 Featured Projects
+
+| Project | What it is | Stack | Write-up |
+| :--- | :--- | :--- | :---: |
+| [kr-public-data-agent](https://github.com/zoocasso/kr-public-data-agent) | Natural-language questions over Korean public R&D data: a tool-calling agent writes and checks SQL and answers with the query behind every number; read-only DB, 40-question eval against two baselines (in progress) | Python, Claude API, PostgreSQL, sqlglot | – |
+| KISTI data platform (company code, not public) | Collection and loading for a KISTI public R&D platform: 80M+ rows from crawlers on 10–20 laptops, model batches and a FastAPI admin interface | Python, Selenium, MySQL/MariaDB, FastAPI, KeyBERT | [details](https://zoocasso.github.io/en/work/kisti/) |
+| [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk reports: genotypes joined to ~1 TB of public references in four SQL stages; JSON API and HTML viewer, tested without MySQL | FastAPI, SQLAlchemy, MySQL, Docker | [details](https://zoocasso.github.io/en/work/genomics/) |
+| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (~2,000 peak concurrent players): one transaction per report, validated input, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
+| [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset (5-person team lead; slides) | C++, OpenCV, Unity | – |
+| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (25.45 s → 0.31 s on CPU) | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
+| [depth-estimation-using-vcr-algorithm-matlab](https://github.com/zoocasso/depth-estimation-using-vcr-algorithm-matlab) | 2022 course project where the research started: object depth from integral images, VCR at candidate depths + FFT correlation filters; tested in Octave | MATLAB, Octave | – |
+
+<br>
+
+## 📚 Publications & Research
+
+Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim/) · [Origin point optimization](https://zoocasso.github.io/en/research/origin-point/)
+
+| Status | Conference | Paper Title |
+| :---: | :--- | :--- |
+| **Best Poster Award** | **ICMV 2026** | Angular-to-Spatial Information Redistribution via Ray-based Inverse Mapping |
+| **Accepted** | **ICCAS 2026** | Virtual Lens Array Synthesis from Multi-View Images via iRIM |
+| **Presented** | **ITC-CSCC 2026** | Accelerated Origin Point Optimization for Volumetric Computational Reconstruction |
+| **Presented** | **ITC-CSCC 2025** | Image Enhancement of Volumetric Computational Reconstruction Using Origin Point Optimization |
+
+<br>
+
+## 🛠 Tech Stack
+
+### **Data & Backend**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+
+### **Computer Vision & Research**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+### **Infrastructure**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux (Ubuntu)-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
