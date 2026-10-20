@@ -21,7 +21,7 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 <br>
 
 ## 🌟 Highlights
-- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform (80M+ rows collected, models served with FastAPI); sole developer of a genomic variant annotation system over ~1 TB of public reference data, deployed with Docker and Harbor.
+- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform (80M+ rows collected, models served with FastAPI); backend and pipeline developer of a genomic variant annotation system over ~1 TB of public reference data (algorithm designed with the team lead), deployed with Docker and Harbor.
 - 🔬 **3D Vision Research (Kyushu Tech, 2025–):** Training-free light-field / integral-imaging reconstruction; 4 first-author conference papers.
 - ⚡ **Side project:** Sole server developer of a community rhythm game (~300 average, ~2,000 peak concurrent players) on AWS behind Cloudflare.
 
@@ -33,9 +33,9 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 | :--- | :--- | :--- | :---: |
 | [kr-public-data-agent](https://github.com/zoocasso/kr-public-data-agent) | Natural-language questions over Korean public R&D data: a tool-calling agent writes and checks SQL and answers with the query behind every number; read-only DB, 40-question eval against two baselines (in progress) | Python, Claude API, PostgreSQL, sqlglot | – |
 | KISTI data platform (company code, not public) | Collection and loading for a KISTI public R&D platform: 80M+ rows from crawlers on 10–20 laptops, model batches and a FastAPI admin interface | Python, Selenium, MySQL/MariaDB, FastAPI, KeyBERT | [details](https://zoocasso.github.io/en/work/kisti/) |
-| [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk reports: genotypes joined to ~1 TB of public references in four SQL stages; JSON API and HTML viewer, tested without MySQL | FastAPI, SQLAlchemy, MySQL, Docker | [details](https://zoocasso.github.io/en/work/genomics/) |
+| [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk reports: genotypes joined to ~1 TB of public references in four SQL stages; JSON API and HTML viewer, tested on SQLite and MySQL 8.0/8.4 | FastAPI, SQLAlchemy, MySQL, Docker | [details](https://zoocasso.github.io/en/work/genomics/) |
 | [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (~2,000 peak concurrent players): one transaction per report, validated input, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
-| [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset (5-person team lead; slides) | C++, OpenCV, Unity | – |
+| [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset, 2024 XR Device Content Makerthon (team 3DOS: sole developer and live demo; slides) | C++, OpenCV, Unity | – |
 | [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (25.45 s → 0.31 s on CPU) | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
 | [depth-estimation-using-vcr-algorithm-matlab](https://github.com/zoocasso/depth-estimation-using-vcr-algorithm-matlab) | 2022 course project where the research started: object depth from integral images, VCR at candidate depths + FFT correlation filters; tested in Octave | MATLAB, Octave | – |
 
