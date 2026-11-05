@@ -6,7 +6,7 @@
 
 I am Hyeongju Lee (**[CV](cv_hyeongjulee.pdf)**), a data & backend engineer with 29 months of industry experience, now researching 3D vision as a master's student at Kyushu Institute of Technology.<br>
 I build data pipelines end to end, from collection to serving, and turn research methods into working code.<br>
-Graduating March 2027 · available to start in Korea from April 2027.<br>
+Graduating with a master's in March 2027.<br>
 Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github.io</a></b>; the code is here.
 
 <br>
