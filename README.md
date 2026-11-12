@@ -21,6 +21,7 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 
 ## 🌟 Highlights
 - 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform designed by KISTI researchers (80M+ rows collected, models served with FastAPI); implemented the pipeline, backend and frontend of a genomic variant annotation system over ~1 TB of public reference data (pipeline algorithm designed with the team lead), deployed with Docker and Harbor.
+- 📷 **Image-data pipeline (commissioned research with Hitachi, Kyushu Tech lab, 2025–):** Wrote the software from scratch: machine-vision camera control (Spinnaker SDK / PySpin), capture, dataset preprocessing and a PyQt GUI for non-developer researchers; deployed on site in the Netherlands (Sep–Oct 2026), design handed over to two successors ([details](https://zoocasso.github.io/en/work/hitachi/)).
 - 🔬 **3D Vision Research (Kyushu Tech, 2025–):** Training-free light-field / integral-imaging reconstruction; 4 first-author conference papers.
 - ⚡ **Side project:** Sole server developer of a community rhythm game (~300 average, ~2,000 peak concurrent players) on AWS behind Cloudflare.
 
