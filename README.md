@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="2048" height="800" alt="image" src="https://github.com/user-attachments/assets/3d8754aa-2d9b-4f7e-b39a-621925861e9d" />
-
-### 🚀 Data & Backend Engineer · 3D Vision Researcher
+### Data & Backend Engineer · 3D Vision Researcher
 
 I am Hyeongju Lee (**[CV](https://github.com/zoocasso/zoocasso/blob/main/cv_hyeongjulee.pdf)**), a data & backend engineer with 29 months of industry experience, now researching 3D vision as a master's student at Kyushu Institute of Technology.<br>
 I build data pipelines end to end, from collection to serving, and turn research methods into working code.<br>
@@ -16,6 +14,19 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 <a href="https://zoocasso.github.io"><img src="https://img.shields.io/badge/Portfolio-zoocasso.github.io-C9A45C?style=flat-square&logo=GitHubPages&logoColor=black"/></a>
 
 </div>
+
+<br>
+
+<a href="https://zoocasso.github.io/en/#systems"><img src="docs/systems-flow.gif" alt="Data-flow diagram of the KISTI project from my site: sources, collection, storage, processing, serving and users; clicking Central MySQL highlights the path through it" width="100%"></a>
+
+<sub>The data systems I built, as drawn on my site: the KISTI project from collection to serving, with my own work in solid blue. Clicking a node highlights the path through it.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.gif" alt="Lens array lab on my site: a 3D scene captured through a lens array and reconstructed at different depths" width="100%"></a><br><sub><b>Research:</b> a lens array lab in the browser that captures a scene and reconstructs it at any depth (RIM, ICMV 2026 Best Poster Award)</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/zoocasso/realtime-vision-xr-device"><img src="docs/headset-before-after.gif" alt="XR headset captures switching between the camera feed and the processed frame for fog and for low light" width="100%"></a><br><sub><b>XR headset:</b> fog removal and low-light recovery on the device's own camera, 2024 makerthon (team 3DOS, sole developer)</sub></td>
+</tr>
+</table>
 
 <br>
 
