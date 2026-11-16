@@ -30,15 +30,15 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 
 <br>
 
-## 🌟 Highlights
-- 🔄 **Data & Backend (Vision Inside, 2022–2024):** Sole data engineer on Vision Inside's side of a KISTI-commissioned R&D platform designed by KISTI researchers (80M+ rows collected, models served with FastAPI); implemented the pipeline, backend and frontend of a genomic variant annotation system over ~1 TB of public reference data (pipeline algorithm designed with the team lead), deployed with Docker and Harbor.
-- 📷 **Image-data pipeline (joint research with Hitachi, Kyushu Tech lab, 2025–):** Wrote the software from scratch: machine-vision camera control (Spinnaker SDK / PySpin), capture, dataset preprocessing and a PyQt GUI for non-developer researchers; deployed on site in the Netherlands (Sep–Oct 2026), design handed over to two successors ([details](https://zoocasso.github.io/en/work/hitachi/)).
-- 🔬 **3D Vision Research (Kyushu Tech, 2025–):** Training-free light-field / integral-imaging reconstruction; 4 first-author conference papers.
-- ⚡ **Side project:** Sole server developer of a community rhythm game (~300 average, ~2,000 peak concurrent players) on AWS behind Cloudflare.
+## Highlights
+
+- **Data & backend, Vision Inside (2022–2024):** collection, loading and serving for a KISTI-commissioned R&D platform (80M+ rows), and the pipeline, backend and frontend of a genomic report system over ~1 TB of public references.
+- **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
+- **Side project:** sole server developer of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
 
 <br>
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | What it is | Stack | Write-up |
 | :--- | :--- | :--- | :---: |
@@ -52,7 +52,7 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 
 <br>
 
-## 📚 Publications & Research
+## Publications & Research
 
 Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim/) · [Origin point optimization](https://zoocasso.github.io/en/research/origin-point/)
 
@@ -65,10 +65,10 @@ Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Data & Backend**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ### **Computer Vision & Research**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
