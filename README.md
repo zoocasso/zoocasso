@@ -35,9 +35,10 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 ## Highlights
 
-- **Data & backend, Vision Inside (2022–2024):** collection, loading and serving for a KISTI-commissioned R&D platform (80M+ rows), and the pipeline, backend and frontend of a genomic report system over ~1 TB of public references.
+- **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
 - **Side project:** sole server developer of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
+- **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
 
 <br>
 
