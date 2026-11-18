@@ -17,16 +17,19 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 
 <br>
 
-<a href="https://zoocasso.github.io/en/#systems"><img src="docs/systems-flow.gif" alt="Data-flow diagram of the KISTI project from my site: sources, collection, storage, processing, serving and users; clicking Central MySQL highlights the path through it" width="100%"></a>
+**Data systems** · the KISTI R&D platform, from collection to serving
 
-<sub>The data systems I built, as drawn on my site: the KISTI project from collection to serving, with my own work in solid blue. Clicking a node highlights the path through it.</sub>
+<a href="https://zoocasso.github.io/en/#systems"><img src="docs/systems-flow.webp" alt="Data-flow diagram of the KISTI project from my site: sources, collection, storage, processing, serving and users; clicking Central MySQL highlights the path through it" width="100%"></a>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.gif" alt="Lens array lab on my site: a 3D scene captured through a lens array and reconstructed at different depths" width="100%"></a><br><sub><b>Research:</b> a lens array lab in the browser that captures a scene and reconstructs it at any depth (RIM, ICMV 2026 Best Poster Award)</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/zoocasso/realtime-vision-xr-device"><img src="docs/headset-before-after.webp" alt="XR headset captures with a moving divider: the camera feed on its left, the processed frame on its right, for fog and for low light" width="100%"></a><br><sub><b>XR headset:</b> fog removal and low-light recovery on the device's own camera, 2024 makerthon (team 3DOS, sole developer)</sub></td>
-</tr>
-</table>
+As drawn on my site, with my own work in solid blue; clicking a node there highlights the path through it.
+
+<br>
+
+**Research** · a lens array lab in the browser (RIM, ICMV 2026 Best Poster Award)
+
+<a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.webp" alt="Lens array lab on my site: a 3D scene captured through 64×64 tiny cameras, rearranged, and reconstructed sharp at the monkey head's depth, with English and Japanese captions" width="100%"></a>
+
+A scene is captured through a lens array and rebuilt at any depth; the lab on my site runs in the browser.
 
 <br>
 
