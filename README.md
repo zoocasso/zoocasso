@@ -37,7 +37,7 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 - **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
-- **Side project:** sole server developer of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
+- **Side project:** owned the server, database and security of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
 - **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
 
 <br>
@@ -52,7 +52,7 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 | [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (paper: 0.31 s vs an estimated 25.45 s) | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
 | [depth-estimation-using-vcr-algorithm-matlab](https://github.com/zoocasso/depth-estimation-using-vcr-algorithm-matlab) | 2022 course project where the research started: object depth from integral images, VCR at candidate depths + FFT correlation filters, built on the course's lecture scripts; tested in Octave | MATLAB, Octave | – |
 | [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset, 2024 XR Device Content Makerthon (team 3DOS: owned all development and the stage demo; slides) | C++, OpenCV, Unity | – |
-| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (2023–2024, ~2,000 peak concurrent players), as its sole server developer; the code here adds transactions, input validation, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
+| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (2023–2024, ~2,000 peak concurrent players), owning the server, database and security; the code here adds transactions, input validation, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
 
 <br>
 
