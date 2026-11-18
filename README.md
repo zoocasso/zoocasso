@@ -24,7 +24,7 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.gif" alt="Lens array lab on my site: a 3D scene captured through a lens array and reconstructed at different depths" width="100%"></a><br><sub><b>Research:</b> a lens array lab in the browser that captures a scene and reconstructs it at any depth (RIM, ICMV 2026 Best Poster Award)</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/zoocasso/realtime-vision-xr-device"><img src="docs/headset-before-after.gif" alt="XR headset captures switching between the camera feed and the processed frame for fog and for low light" width="100%"></a><br><sub><b>XR headset:</b> fog removal and low-light recovery on the device's own camera, 2024 makerthon (team 3DOS, sole developer)</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/zoocasso/realtime-vision-xr-device"><img src="docs/headset-before-after.webp" alt="XR headset captures with a moving divider: the camera feed on its left, the processed frame on its right, for fog and for low light" width="100%"></a><br><sub><b>XR headset:</b> fog removal and low-light recovery on the device's own camera, 2024 makerthon (team 3DOS, sole developer)</sub></td>
 </tr>
 </table>
 
