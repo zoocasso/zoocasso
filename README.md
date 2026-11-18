@@ -17,11 +17,11 @@ Project write-ups are on <b><a href="https://zoocasso.github.io">zoocasso.github
 
 <br>
 
-**Data systems** · the KISTI R&D platform, from collection to serving
+**Data & backend** · from sources to operations
 
-<a href="https://zoocasso.github.io/en/#systems"><img src="docs/systems-flow.webp" alt="Data-flow diagram of the KISTI project from my site: sources, collection, storage, processing, serving and users; clicking Central MySQL highlights the path through it" width="100%"></a>
+<a href="https://zoocasso.github.io/en/#systems"><img src="docs/data-path.png" alt="The path data takes, and the tools I have used at each stage: sources, collection, storage, processing, serving and operations, with the tools under each stage. Main languages: Python and SQL" width="100%"></a>
 
-As drawn on my site, with my own work in solid blue; clicking a node there highlights the path through it.
+The systems I built follow this path; on my site each one is drawn stage by stage, with my own part marked.
 
 <br>
 
