@@ -33,10 +33,28 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 <br>
 
+**Research** · real-time detection and depth on lens-array images (master's thesis, in preparation)
+
+<img src="docs/realtime-refocus.gif" alt="A real Lytro frame refocused at the near person, the stop sign and the far cars, then the result: a box and a depth value for each detected object" width="100%">
+
+Detect once on a real Lytro frame, then refocus only inside each box on the GPU: 16.4 ms per frame (61 fps, RTX 3090). Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
+
+<br>
+
+**Research** · image enhancement for low-light and hazy scenes (an algorithm I developed)
+
+<img src="docs/enhance-before-after.gif" alt="A dark indoor photo from a public dataset, shown as input and then as the result, which is clear" width="100%">
+
+Photos taken in the dark or in haze are made clear one image at a time; below, a dark photo from a public dataset. Data: SI-HDR (Hanji et al., SIGGRAPH 2022, CC BY 4.0).
+
+<br>
+
 ## Highlights
 
 - **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
+- **Master's thesis (in preparation):** real-time object detection and depth on lens-array images, 16.4 ms per frame on the GPU.
+- **Image enhancement:** developed an image-enhancement algorithm for low-light and hazy scenes.
 - **Side project:** owned the server, database and security of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
 - **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
 
@@ -60,8 +78,9 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim/) · [Origin point optimization](https://zoocasso.github.io/en/research/origin-point/)
 
-| Status | Conference | Paper Title |
+| Status | Venue | Paper Title |
 | :---: | :--- | :--- |
+| **In preparation** | **Master's thesis** | Real-time object detection and depth estimation on lens-array images (working title) |
 | **Best Poster Award** | **ICMV 2026** | Angular-to-Spatial Information Redistribution via Ray-based Inverse Mapping |
 | **Poster** | **ICCAS 2026** | Virtual Lens Array Synthesis from Multi-View Images via iRIM |
 | **Presented** | **ITC-CSCC 2026** | Accelerated Origin Point Optimization for Volumetric Computational Reconstruction |
