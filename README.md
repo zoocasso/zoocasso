@@ -37,7 +37,7 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 <img src="docs/realtime-refocus.gif" alt="A real Lytro frame refocused at the near person, the stop sign and the far cars, then the result: a box and a depth value for each detected object" width="100%">
 
-Detect once on a real Lytro frame, then refocus only inside each box on the GPU: 16.4 ms per frame (61 fps, RTX 3090). Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
+Detect once, then refocus only inside each box on the GPU: 14.6 ms per real Lytro frame for detection and depth (median, RTX 3090, preprocessing excluded). Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
 
 <br>
 
@@ -53,7 +53,7 @@ Photos taken in the dark or in haze are made clear one image at a time; below, a
 
 - **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
-- **Master's thesis (in preparation):** real-time object detection and depth on lens-array images, 16.4 ms per frame on the GPU.
+- **Master's thesis (in preparation):** real-time GPU pipeline for lens-array images, 14.6 ms per real Lytro frame for detection and depth (median, RTX 3090, preprocessing excluded).
 - **Image enhancement:** developed an image-enhancement algorithm for low-light and hazy scenes.
 - **Side project:** owned the server, database and security of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
 - **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
