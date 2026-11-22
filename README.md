@@ -80,7 +80,7 @@ Write-ups on the site: [RIM and iRIM](https://zoocasso.github.io/en/research/rim
 
 | Status | Venue | Paper Title |
 | :---: | :--- | :--- |
-| **In preparation** | **Master's thesis** | Real-time object detection and depth estimation on lens-array images (working title) |
+| **In preparation** | **Master's thesis** | Real-Time Object Detection and Depth Estimation From Integral Images (working title) |
 | **Best Poster Award** | **ICMV 2026** | Angular-to-Spatial Information Redistribution via Ray-based Inverse Mapping |
 | **Poster** | **ICCAS 2026** | Virtual Lens Array Synthesis from Multi-View Images via iRIM |
 | **Presented** | **ITC-CSCC 2026** | Accelerated Origin Point Optimization for Volumetric Computational Reconstruction |
