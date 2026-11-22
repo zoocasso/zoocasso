@@ -27,7 +27,7 @@ The systems I built follow this path; on my site each one is drawn stage by stag
 
 **Research** · a lens array lab in the browser (RIM, ICMV 2026 Best Poster Award)
 
-<a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.webp" alt="Lens array lab on my site: a 3D scene captured through 64×64 tiny cameras, rearranged, and reconstructed sharp at the monkey head's depth, with English and Japanese captions" width="100%"></a>
+<a href="https://zoocasso.github.io/en/research/"><img src="docs/research-lab.webp" alt="Lens array lab on my site: a 3D scene captured through an array of tiny cameras, rearranged, and reconstructed sharp at the monkey head's depth, with English and Japanese captions" width="100%"></a>
 
 A scene is captured through a lens array and rebuilt at any depth; the lab on my site runs in the browser.
 
@@ -37,7 +37,7 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 <img src="docs/realtime-refocus.gif" alt="A real Lytro frame refocused at the near person, the stop sign and the far cars, then the result: a box and a depth value for each detected object" width="100%">
 
-Detect once, then refocus only inside each box on the GPU: 14.6 ms per real Lytro frame for detection and depth (median, RTX 3090, preprocessing excluded). Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
+Detect once, then refocus only inside each box on the GPU, finding objects and the depth of each in real time. Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
 
 <br>
 
@@ -53,9 +53,9 @@ Photos taken in the dark or in haze are made clear one image at a time; below, a
 
 - **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
-- **Master's thesis (in preparation):** real-time GPU pipeline for lens-array images, 14.6 ms per real Lytro frame for detection and depth (median, RTX 3090, preprocessing excluded).
+- **Master's thesis (in preparation):** GPU pipeline for lens-array images that finds objects and the depth of each in real time.
 - **Image enhancement:** developed an image-enhancement algorithm for low-light and hazy scenes.
-- **Side project:** owned the server, database and security of a community rhythm game, ~2,000 peak concurrent players, on AWS behind Cloudflare.
+- **Side project:** owned the server, database and security of a community rhythm game on AWS behind Cloudflare, and ran it as a live service through traffic surges on update days.
 - **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
 
 <br>
@@ -67,10 +67,10 @@ Photos taken in the dark or in haze are made clear one image at a time; below, a
 | KISTI data platform (company code, not public) | Collection, loading and serving for a KISTI public R&D platform designed by KISTI researchers: data from a distributed crawling farm of laptops, model batches and a FastAPI admin interface; DB schema, backend integration and frontend wiring for the Java Spring prototype web app (with the in-house Java team) | Python, Selenium, MySQL, FastAPI, Java Spring, KeyBERT | [details](https://zoocasso.github.io/en/work/kisti/) |
 | Image-data pipeline, joint research with Hitachi (lab code, not public) | Written from scratch: machine-vision camera control (Spinnaker SDK / PySpin), capture, dataset preprocessing and a PyQt GUI for non-developer researchers; deployed on site in the Netherlands (Sep–Oct 2026) | Python, PySpin, PyQt | [details](https://zoocasso.github.io/en/work/hitachi/) |
 | [bio_fastapi](https://github.com/zoocasso/bio_fastapi) | Genomic variant annotation & risk reports: genotypes joined to public references in four SQL stages; JSON API and HTML viewer, tested on SQLite and MySQL 8.0/8.4 (Vision Inside, 2022–2023; pipeline algorithm designed with the team lead) | FastAPI, SQLAlchemy, MySQL, Docker | [details](https://zoocasso.github.io/en/work/genomics/) |
-| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point found from camera parameters, 81 reconstructions → 1 (paper: 0.31 s vs an estimated 25.45 s) | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
+| [origin-point-optimization-vcr](https://github.com/zoocasso/origin-point-optimization-vcr) | Code for my ITC-CSCC 2025/2026 papers: origin point computed from camera parameters, cutting processing time sharply with the same image quality in the paper's experiments | Python, NumPy, CuPy | [details](https://zoocasso.github.io/en/research/origin-point/) |
 | [depth-estimation-using-vcr-algorithm-matlab](https://github.com/zoocasso/depth-estimation-using-vcr-algorithm-matlab) | 2022 course project where the research started: object depth from integral images, VCR at candidate depths + FFT correlation filters, built on the course's lecture scripts; tested in Octave | MATLAB, Octave | – |
 | [realtime-vision-xr-device](https://github.com/zoocasso/realtime-vision-xr-device) | Fog removal and low-light recovery on an XR headset, 2024 XR Device Content Makerthon (team 3DOS: owned all development and the stage demo; slides) | C++, OpenCV, Unity | – |
-| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (2023–2024, ~2,000 peak concurrent players), owning the server, database and security; the code here adds transactions, input validation, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
+| [wjmax-game-server](https://github.com/zoocasso/wjmax-game-server) | Play-log ingestion API of a community rhythm game (2023–2024): owned the server, database and security and ran it as a live service through traffic surges on update days; the code here adds transactions, input validation, tests and CI | FastAPI, SQLAlchemy, MySQL, Docker, AWS, Cloudflare | [details](https://zoocasso.github.io/en/work/wjmax/) |
 
 <br>
 
