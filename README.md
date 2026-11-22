@@ -33,11 +33,11 @@ A scene is captured through a lens array and rebuilt at any depth; the lab on my
 
 <br>
 
-**Research** · real-time detection and depth on lens-array images (master's thesis, in preparation)
+**Research** · real-time detection and relative depth on preprocessed lens-array images (master's thesis, in preparation)
 
-<img src="docs/realtime-refocus.gif" alt="A real Lytro frame refocused at the near person, the stop sign and the far cars, then the result: a box and a depth value for each detected object" width="100%">
+<img src="docs/realtime-refocus.gif" alt="A real Lytro frame refocused at the near person, the stop sign and the far cars, then the result: a box and a relative depth value for each detected object" width="100%">
 
-Detect once on a preprocessed lens-array image, then refocus only inside each box on the GPU, finding objects and the depth of each in real time. Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
+Detect once on a preprocessed lens-array image, then refocus only inside each box on a desktop GPU, finding objects and the relative depth of each in real time. Scene: Stanford Lytro Light Field Archive, occlusions_25 (Raj et al., 2016).
 
 <br>
 
@@ -53,7 +53,7 @@ Photos taken in the dark or in haze are made clear one image at a time; below, a
 
 - **Data & backend, Vision Inside (2022–2024):** collection, storage and serving for a KISTI-commissioned R&D platform designed by KISTI researchers, with models 3–5, which I built and put into production; and the pipeline, backend and frontend of a genomic report system (pipeline algorithm designed with the team lead).
 - **Research, Kyushu Institute of Technology (2025–):** training-free light-field / integral-imaging reconstruction with 4 first-author conference papers (ICMV 2026 Best Poster Award), and an image-data pipeline for joint research with Hitachi, deployed on site in the Netherlands.
-- **Master's thesis (in preparation):** GPU pipeline that finds objects and the depth of each in real time from preprocessed lens-array images.
+- **Master's thesis (in preparation):** desktop-GPU pipeline that finds objects and the relative depth of each in real time from preprocessed lens-array images.
 - **Image enhancement:** developed an image-enhancement algorithm for low-light and hazy scenes.
 - **Side project:** owned the server, database and security of a community rhythm game on AWS behind Cloudflare, and ran it as a live service through traffic surges on update days.
 - **Scholarship:** Rotary Yoneyama Memorial Foundation Scholar (2026), selected through a Japanese-language interview.
